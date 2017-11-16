@@ -1,0 +1,6 @@
+framework module Pods_Favorz {
+  umbrella header "Pods-Favorz-umbrella.h"
+
+  export *
+  module * { export * }
+}
